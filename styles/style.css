@@ -32,9 +32,9 @@ ol, ul {
 }
 .content-right {
     padding: 20px;
-    border: 1px solid white
+    border: 1px solid white;
     width: 20%;
-    background: #aaa;
+    background: #4c6c4e;
     margin: 10px;
     border-radius: 10px;
 }
